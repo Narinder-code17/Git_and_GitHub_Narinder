@@ -7,6 +7,11 @@
     {
         "id": 2,
         "name": "Student 2",
-        "course": "Electronics and Communication Engineering"
+        "course": "Information Technology"
+    },
+    {
+        "id": 3,
+        "name": "Student 3",
+        "course": "Computer Science"
     }
 ]
